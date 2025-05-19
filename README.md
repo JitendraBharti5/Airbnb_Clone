@@ -9,7 +9,9 @@ npm i cloudinary
 npm i multer-storage-cloudinary
 npm install @mapbox/mapbox-sdk
 npm i connect-mongo 
-}                                             
+}                   
+finally
+npx nodemon app.js
                                                              //OR//
 or go just to my deployed link to look-
  https://web-development-y0rr.onrender.com/listings
